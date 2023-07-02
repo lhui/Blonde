@@ -45,7 +45,7 @@ $ git pull
 Inside the folder of your Hugo site run:
 
 ```bash
-$ git submodule add https://github.com/opera7133/Blonde.git themes/Blonde
+$ git submodule add https://github.com/lhui/Blonde.git themes/Blonde
 ```
 
 Updating theme:
